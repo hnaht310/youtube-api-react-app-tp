@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/youtube-api-react-app-tp/static/css/main.ee25f1bc.css",
+    "main.js": "/youtube-api-react-app-tp/static/js/main.906c33b1.js",
+    "index.html": "/youtube-api-react-app-tp/index.html",
+    "main.ee25f1bc.css.map": "/youtube-api-react-app-tp/static/css/main.ee25f1bc.css.map",
+    "main.906c33b1.js.map": "/youtube-api-react-app-tp/static/js/main.906c33b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee25f1bc.css",
+    "static/js/main.906c33b1.js"
+  ]
+}
